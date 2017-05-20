@@ -1,0 +1,9 @@
+<templateSet group="user">
+  <template name="listvar" value="List&lt;$TYPE$&gt; $NAME$ = new ArrayList&lt;&gt;();$END$ " toReformat="true" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="iterableVariable()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
