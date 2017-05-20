@@ -1,0 +1,39 @@
+<templateSet group="JavaScript">
+  <template name="=req" value="= require('$MODULE$')$END$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="MODULE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="clog" value="console.log($LOG$);$END$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="LOG" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="imp" value="import $COMPONENT$ from '$MODULE$';$END$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="MODULE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="COMPONENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="tryc" value="try {&#10;    &#10;} catch ($ERROR$) {&#10;    $END$&#10;}" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="ERROR" expression="" defaultValue="&quot;error&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="reactcomp" value="class $CLASS_NAME$ extends Component {&#10;&#10;    render() {&#10;        return (&#10;            $END$&#10;        );&#10;    }&#10;&#10;}" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+  <template name="mexp" value="module.exports = $VAR$;" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="jsSuggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
