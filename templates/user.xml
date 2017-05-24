@@ -6,25 +6,25 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="pfs" value="private final String $NAME$;$END$" toReformat="false" toShortenFQNames="true">
+  <template name="pfs" value="private final String $NAME$;$END$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="pfd" value="private final double $NAME$;$END$" toReformat="true" toShortenFQNames="true">
+  <template name="pfd" value="private final double $NAME$;$END$" description="" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="pfi" value="private final int $NAME$;$END$" toReformat="true" toShortenFQNames="true">
+  <template name="pfi" value="private final int $NAME$;$END$" description="" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="pvm" value="private void $NAME$($PARAMS$) {&#10;    $END$&#10;}" toReformat="true" toShortenFQNames="true">
+  <template name="pvm" value="private void $NAME$($PARAMS$) {&#10;    $END$&#10;}" description="" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
