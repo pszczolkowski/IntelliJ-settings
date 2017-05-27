@@ -1,4 +1,5 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="ChangesView.Revert" />
   <action id="CloseActiveTab" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
