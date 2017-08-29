@@ -1,6 +1,7 @@
 <templateSet group="JavaScript">
-  <template name="=req" value="= require('$MODULE$')$END$" description="" toReformat="false" toShortenFQNames="true">
+  <template name="=req" value="const $NAME$ = require('$MODULE$');$END$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="MODULE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
