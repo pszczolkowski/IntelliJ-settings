@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="segments_1" type="PLAIN_TEXT" />
+      <mapping pattern="WorkerSpecification" type="Groovy" />
       <mapping pattern="banner" type="PLAIN_TEXT" />
+      <mapping pattern="segments_1" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="opts" type="PLAIN_TEXT" />
       <mapping ext="si" type="PLAIN_TEXT" />
       <mapping ext="cfe" type="PLAIN_TEXT" />
