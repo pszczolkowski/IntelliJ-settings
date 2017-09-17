@@ -8,6 +8,7 @@
       <mapping ext="opts" type="PLAIN_TEXT" />
       <mapping ext="si" type="PLAIN_TEXT" />
       <mapping ext="cfe" type="PLAIN_TEXT" />
+      <mapping ext="hbs" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
