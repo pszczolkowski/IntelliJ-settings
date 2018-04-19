@@ -9,12 +9,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Close All">
+        <Item>
+          <IdeaActionID>CloseAllEditors</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F4' or 'Ctrl+Shift+W'</ShortCut>
+          <Description>Close All</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
