@@ -46,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>164</Count>
+          <Count>169</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand All">
@@ -70,7 +70,7 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'Alt+3'</ShortCut>
           <Description>Find</Description>
-          <Count>54</Count>
+          <Count>55</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -102,6 +102,14 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Messages</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project">
+        <Item>
+          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
+          <ShortCut>'Alt+1'</ShortCut>
+          <Description>Project</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -118,7 +126,7 @@
           <IdeaActionID>UsageView.Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F11'</ShortCut>
           <Description>Rerun</Description>
-          <Count>3</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FizzBuzzTest'">
@@ -129,12 +137,28 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'IsOnVacationTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F11'</ShortCut>
+          <Description>Rerun 'IsOnVacationTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'debug'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F11'</ShortCut>
           <Description>Rerun 'debug'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'groovy in vacation-manager'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F11'</ShortCut>
+          <Description>Rerun 'groovy in vacation-manager'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -169,12 +193,28 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'IsOnVacationTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'IsOnVacationTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Main.main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'Main.main()'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Tests in 'groovy''">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'Tests in 'groovy''</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'debug'">
