@@ -54,7 +54,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>179</Count>
+          <Count>183</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand All">
@@ -78,7 +78,7 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'Alt+3'</ShortCut>
           <Description>Find</Description>
-          <Count>56</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -134,7 +134,7 @@
           <IdeaActionID>UsageView.Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F11'</ShortCut>
           <Description>Rerun</Description>
-          <Count>10</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FizzBuzzTest'">
