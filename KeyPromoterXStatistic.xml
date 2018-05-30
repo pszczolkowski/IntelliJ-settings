@@ -222,7 +222,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F11'</ShortCut>
           <Description>Rerun 'calculateDailyVacationDurationForInstanceTest'</Description>
-          <Count>9</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'calculateHourlyVacationDurationForInstanceTest'">
