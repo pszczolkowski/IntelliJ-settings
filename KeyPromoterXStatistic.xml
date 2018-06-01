@@ -246,7 +246,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F11'</ShortCut>
           <Description>Rerun 'groovy in vacation-manager'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -366,7 +366,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
           <Description>Run 'groovy in vacation-manager'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'debug'">
