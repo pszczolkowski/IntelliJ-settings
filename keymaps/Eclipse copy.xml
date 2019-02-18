@@ -1,4 +1,7 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="ActivateMongoExplorerToolWindow">
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
   <action id="ChangesView.Revert" />
   <action id="CloseActiveTab" />
   <action id="CloseContent">
