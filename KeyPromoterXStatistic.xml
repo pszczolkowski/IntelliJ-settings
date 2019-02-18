@@ -46,7 +46,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Alt+Shift+D' or 'Shift+F9'</ShortCut>
           <Description>Debug 'LeadprocessorApp'</Description>
-          <Count>8</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'PageBuilderApp'">
@@ -438,7 +438,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'LeadprocessorApp'</Description>
-          <Count>6</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'PageBuilderApp'">
