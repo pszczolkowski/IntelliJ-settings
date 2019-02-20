@@ -182,7 +182,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Messages</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Mongo Explorer">
@@ -190,7 +190,7 @@
           <IdeaActionID>ActivateMongoExplorerToolWindow</IdeaActionID>
           <ShortCut>'Alt+8'</ShortCut>
           <Description>Mongo Explorer</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
