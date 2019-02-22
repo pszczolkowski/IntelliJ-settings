@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>325</Count>
+          <Count>326</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -182,7 +182,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Messages</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Mongo Explorer">
@@ -190,7 +190,7 @@
           <IdeaActionID>ActivateMongoExplorerToolWindow</IdeaActionID>
           <ShortCut>'Alt+8'</ShortCut>
           <Description>Mongo Explorer</Description>
-          <Count>11</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -334,7 +334,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in leadprocessor (1)'">
