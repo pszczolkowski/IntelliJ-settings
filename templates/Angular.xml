@@ -1,0 +1,8 @@
+<templateSet group="Angular">
+  <template name="a-inj" value="@Injectable({&#10;    providedIn: $1$&#10;})$END$" description="Angular Injectable ProvidedIn" toReformat="true" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="&quot;'root'&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
