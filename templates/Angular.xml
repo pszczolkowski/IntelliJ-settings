@@ -5,4 +5,11 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="a-con" value="constructor(&#10;    private $name$: $type$) {&#10;}$END$" toReformat="false" toShortenFQNames="true">
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="name" expression="decapitalize(type)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TS_CLASS" value="true" />
+    </context>
+  </template>
 </templateSet>
