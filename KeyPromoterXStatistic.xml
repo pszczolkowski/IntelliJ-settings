@@ -390,7 +390,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in leadprocessor (1)'">
@@ -407,6 +407,14 @@
           <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
           <Description>Run 'All in leadprocessor'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'All in page-builder'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
+          <Description>Run 'All in page-builder'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'BuyerReportGETBuyerReportsEndpointTest'">
@@ -607,6 +615,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop</Description>
           <Count>17</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'All in page-builder'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'All in page-builder'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'BuyerReportFacadeTest'">
