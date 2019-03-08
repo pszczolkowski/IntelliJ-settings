@@ -1,5 +1,5 @@
 <templateSet group="Excel">
-  <template name="excrun" value="Excel.run(async context =&gt; {&#10;  $END$&#10;  await context.sync();      &#10;});" toReformat="true" toShortenFQNames="true">
+  <template name="excrun" value="Excel.run(async context =&gt; {&#10;  $END$&#10;  await context.sync();      &#10;});" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="TS_STATEMENT" value="true" />
     </context>
