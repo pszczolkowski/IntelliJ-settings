@@ -65,6 +65,14 @@
           <Count>24</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'BuyerCampaignResourceGETActiveBuyerCamp…turnFiltersObjectEvenIfNoFilterIsDefined'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Alt+Shift+D' or 'Shift+F9'</ShortCut>
+          <Description>Debug 'BuyerCampaignResourceGETActiveBuyerCamp…turnFiltersObjectEvenIfNoFilterIsDefined'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'BuyerReportGETBuyerReportsEndpointTest'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -86,7 +94,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Alt+Shift+D' or 'Shift+F9'</ShortCut>
           <Description>Debug 'CoreApp'</Description>
-          <Count>2</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'LeadprocessorApp'">
@@ -150,7 +158,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>568</Count>
+          <Count>578</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -294,7 +302,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F11'</ShortCut>
           <Description>Rerun 'BuyerCampaignResourceGETActiveBuyerCampaignsTest.shouldReturnFiltersObjectEvenIfNoFilterIsDefined'</Description>
-          <Count>4</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'BuyerReportGETBuyerReportsEndpointTest'">
@@ -446,7 +454,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F8' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>199</Count>
+          <Count>210</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -454,7 +462,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in leadprocessor (1)'">
@@ -479,6 +487,14 @@
           <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
           <Description>Run 'All in page-builder'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'BuyerCampaignResourceGETActiveBuyerCamp…turnFiltersObjectEvenIfNoFilterIsDefined'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
+          <Description>Run 'BuyerCampaignResourceGETActiveBuyerCamp…turnFiltersObjectEvenIfNoFilterIsDefined'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'BuyerReportFacadeTest'">
@@ -510,7 +526,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
           <Description>Run 'CoreApp'</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Derived.main()'">
@@ -729,6 +745,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'BuyerCampaignResourceGETActiveBuyerCampaignsTest.shouldReturnFiltersObjectEvenIfNoFilterIsDefined'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'BuyerCampaignResourceGETActiveBuyerCampaignsTest.shouldReturnFiltersObjectEvenIfNoFilterIsDefined'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'BuyerReportFacadeTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -806,7 +830,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>75</Count>
+          <Count>84</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -846,7 +870,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+Shift+B' or 'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>206</Count>
+          <Count>215</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
