@@ -46,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3'</ShortCut>
           <Description>Component Declaration</Description>
-          <Count>135</Count>
+          <Count>137</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -158,7 +158,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>594</Count>
+          <Count>595</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
