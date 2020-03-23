@@ -1,0 +1,9 @@
+<templateSet group="TypeScript">
+  <template name="metthod-parameter" value="$name$: $type$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="name" expression="decapitalize(type)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
