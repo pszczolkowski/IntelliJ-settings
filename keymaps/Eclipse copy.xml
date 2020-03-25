@@ -25,6 +25,10 @@
   <action id="DatabaseView.CopyDdlAction" />
   <action id="Debugger.EditArrayFilter" />
   <action id="Debugger.EditCustomField" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
   <action id="ExpandAllToLevel">
     <keyboard-shortcut first-keystroke="shift ctrl subtract" />
   </action>
@@ -46,6 +50,7 @@
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="MethodUp" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl f6" />
     <keyboard-shortcut first-keystroke="ctrl page_down" />
@@ -63,6 +68,7 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
+  <action id="ResizeToolWindowUp" />
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="shift alt s" />
     <keyboard-shortcut first-keystroke="ctrl f10" />
