@@ -69,6 +69,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
   <action id="ResizeToolWindowUp" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="shift alt s" />
     <keyboard-shortcut first-keystroke="ctrl f10" />
