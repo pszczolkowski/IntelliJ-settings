@@ -31,7 +31,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="prvo" value="Promise&lt;void&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="prvo" value="Promise&lt;void&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="TypeScript" value="true" />
     </context>
