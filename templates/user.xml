@@ -36,7 +36,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="kp" value="// TODO KP $END$" toReformat="false" toShortenFQNames="true">
+  <template name="kp" value="// TODO KP $END$" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
