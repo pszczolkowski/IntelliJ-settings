@@ -25,6 +25,14 @@
   <action id="DatabaseView.CopyDdlAction" />
   <action id="Debugger.EditArrayFilter" />
   <action id="Debugger.EditCustomField" />
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="f13" second-keystroke="right" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="f13" second-keystroke="left" />
+  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="shift alt up" />
     <keyboard-shortcut first-keystroke="shift ctrl up" />
